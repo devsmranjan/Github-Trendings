@@ -1,8 +1,7 @@
 # github_trendings
 
-A new Flutter application.
+Github Trending Repositories.
 
-## Getting Started
+## Screenshot
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Github Trendings](TrendingRepo.gif)
